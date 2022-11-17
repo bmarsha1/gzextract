@@ -1,0 +1,2 @@
+Simple utility for finding and extracting gzip compressed data stored inside of a larger file,
+such as a firmware binary
